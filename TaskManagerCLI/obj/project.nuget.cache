@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kpSbalxxBBi/6qY46pEB1X4/KZdrSxtgrm/w4PCqNWGnmR0zV0okqi8kTE8LxKJ83VirEWLyHgazOlirhrsSEQ==",
+  "success": true,
+  "projectFilePath": "/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/TaskManagerCLI.csproj",
+  "expectedPackageFiles": [
+    "/home/lvis/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

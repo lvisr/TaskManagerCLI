@@ -1,0 +1,17 @@
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/TaskManagerCLI
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/TaskManagerCLI.deps.json
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/TaskManagerCLI.runtimeconfig.json
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/TaskManagerCLI.dll
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/TaskManagerCLI.pdb
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.csproj.AssemblyReference.cache
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.AssemblyInfoInputs.cache
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.AssemblyInfo.cs
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.csproj.CoreCompileInputs.cache
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.csproj.CopyComplete
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.dll
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/refint/TaskManagerCLI.dll
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.pdb
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.genruntimeconfig.cache
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/ref/TaskManagerCLI.dll
