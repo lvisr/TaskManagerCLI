@@ -15,3 +15,4 @@
 /home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.pdb
 /home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.genruntimeconfig.cache
 /home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/ref/TaskManagerCLI.dll
+/home/lvis/Code/C#/Projects/TaskManagerCLI/TaskManagerCLI/obj/Debug/net8.0/TaskManagerCLI.sourcelink.json

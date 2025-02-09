@@ -1,26 +1,32 @@
 [
   {
     "Id": 1,
-    "Description": "Something to do"
+    "Description": "Something to do",
+    "Complete": false
   },
   {
     "Id": 2,
-    "Description": "Don't do it"
+    "Description": "Don't do it",
+    "Complete": true
   },
   {
     "Id": 3,
-    "Description": "Something to do too"
+    "Description": "Something to do too",
+    "Complete": false
   },
   {
     "Id": 4,
-    "Description": "Don't do it anymore"
+    "Description": "Ultimate task",
+    "Complete": false
   },
   {
     "Id": 5,
-    "Description": "Ultimate task"
+    "Description": "More things to do!",
+    "Complete": false
   },
   {
     "Id": 6,
-    "Description": "Finishing this thing"
+    "Description": "Shopping list",
+    "Complete": false
   }
 ]
